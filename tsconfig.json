@@ -1,0 +1,19 @@
+{
+    "include": [
+        "src/**/*"
+    ],
+    "compilerOptions": {
+        "outDir": "dist",
+        "noImplicitAny": true,
+        "target": "es5",
+        "removeComments": true,
+        "allowJs": true,
+        "sourceMap": false,
+        "module": "commonjs",
+        "lib": [
+            "es7",
+            "es6",
+            "dom"
+        ]
+    }
+}

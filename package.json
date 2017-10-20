@@ -1,0 +1,24 @@
+{
+  "name": "js-base64-obfuscator.js",
+  "version": "1.0.0",
+  "description": "Base64 encoded string obfuscator",
+  "main": "dist/index.js",
+  "author": "Maurício Marinho <maucrvlh@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maucrvlh/js-base64-obfuscator.git"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "base 64",
+    "string",
+    "encode",
+    "decode"
+  ],
+  "license": "MIT"
+}
