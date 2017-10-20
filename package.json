@@ -1,5 +1,5 @@
 {
-  "name": "js-base64-obfuscator.js",
+  "name": "js-base64-obfuscator",
   "version": "1.0.0",
   "description": "Base64 encoded string obfuscator",
   "main": "dist/index.js",
